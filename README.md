@@ -28,7 +28,7 @@ We developed a public dataset comprising 1,050 sub-sized tensile test records fr
 
 ---
 
-## 🧠 Machine Learning Models
+## Machine Learning Models
 | Model Type                 | Task                                | Models Used                                                                 |
 |---------------------------|-------------------------------------|------------------------------------------------------------------------------|
 | Regression (point)        | Predict YS, UTS, UE, TE             | k-Nearest Neighbors (kNN), Support Vector Machine (SVM), Decision Trees, Random Forest, Extreme Gradient Boosting (XGBoost), Gaussian Process Regression (GPR), Artificial Neural Network (ANN) |

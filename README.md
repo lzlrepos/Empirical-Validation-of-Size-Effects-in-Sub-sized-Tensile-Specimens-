@@ -68,3 +68,6 @@ We developed a public dataset comprising 1,050 sub-sized tensile test records fr
 
 ## 📁 Repository Structure (Suggested)
 
+
+## ▶️ Use
+The codes are provided as Jupyter Notebook files. To reproduce the results, run the .ipynb files. 

@@ -31,8 +31,6 @@ We developed a public dataset comprising 1,050 sub-sized tensile test records fr
 | Regression (point)        | Predict YS, UTS, UE, TE             | k-Nearest Neighbors (kNN), Support Vector Machine (SVM), Decision Trees, Random Forest, Extreme Gradient Boosting (XGBoost), Gaussian Process Regression (GPR), Artificial Neural Network (ANN) |
 | Uncertainty Quantification| Estimate confidence in predictions  | Quantile Regression, Natural Gradient Boosting (NGBoost), Gaussian Process Regression (GPR), Deep Ensemble, Monte Carlo Dropout (MC Dropout), Bayesian Neural Networks (Variational Inference), Bayesian Neural Networks (MCMC) |
 
-- ML Libraries used: `scikit-learn`, `xgboost`, `catboost`, `ngboost`, `PyTorch`, `Pyro`
-- UQ methods include: Quantile Regression, Bayesian Neural Networks, Deep Ensemble, MC Dropout
 
 ---
 
@@ -66,6 +64,20 @@ We developed a public dataset comprising 1,050 sub-sized tensile test records fr
 ---
 
 ## 📁 Repository Structure (Suggested)
+
+
+## 🔨 Requirements
+
+keras  2.6.0  
+tensorflow 2.6.0  
+pyro-ppl 1.8.5  
+torchbnn 1.2  
+torch 2.0.1  
+pandas 1.5.3  
+numpy 1.23.5  
+scikit-learn 1.2.2  
+
+
 
 
 ## ▶️ Use

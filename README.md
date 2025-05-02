@@ -28,27 +28,6 @@ We developed a public dataset comprising 1,050 sub-sized tensile test records fr
 | Uncertainty Quantification| Estimate confidence in predictions  | Quantile Regression, Natural Gradient Boosting (NGBoost), Gaussian Process Regression (GPR), Deep Ensemble, Monte Carlo Dropout (MC Dropout), Bayesian Neural Networks (Variational Inference), Bayesian Neural Networks (MCMC) |
 
 
----
-
-## 🧪 Analytical Model Validation
-
-- **Barba’s Law** and **Bertella-Oliver formula** were evaluated using our data.
-- Bertella-Oliver yielded better fit (R² = 0.54), but both are sensitive to test conditions.
-- ML models substantially outperformed analytical models in predictive accuracy.
-
----
-
-## 🔎 Specimen Size Effect Findings
-
-| Hypothesis Tested | Conclusion |
-|-------------------|------------|
-| Thickness < 0.2 mm affects properties | ✅ Confirmed |
-| Thickness-to-grain-size ratio ≥ 10 required | ✅ Confirmed |
-| Slenderness ratio affects TE, UE | ✅ Confirmed (TE decreases with slenderness) |
-| Width-to-thickness ratio affects UTS, TE | ✅ Confirmed above critical value of 5 |
-
----
-
 ## 📌 Feature Importance (SHAP)
 
 - Most important features for prediction:

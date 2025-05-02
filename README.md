@@ -30,7 +30,7 @@ We developed a public dataset comprising 1,050 sub-sized tensile test records fr
 | Model Type               | Task                      | Best Model                        |
 |--------------------------|---------------------------|-----------------------------------|
 | Regression (point)       | YS, UTS, UE, TE prediction| Random Forest, XGBoost, GPR       |
-| Uncertainty Quantification | UQ for all properties     | NGBoost, BNN-MCMC, GPR            |
+| Uncertainty Quantification | UQ for YS, UTS, UE,and TE  | NGBoost, BNN-MCMC, GPR            |
 
 - ML Libraries used: `scikit-learn`, `xgboost`, `catboost`, `ngboost`, `PyTorch`, `Pyro`
 - UQ methods include: Quantile Regression, Bayesian Neural Networks, Deep Ensemble, MC Dropout

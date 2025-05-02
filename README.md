@@ -57,9 +57,6 @@ We developed a public dataset comprising 1,050 sub-sized tensile test records fr
   3. Specimen geometry (thickness, width)
   4. Grain size
 
----
-
-## 📁 Repository Structure (Suggested)
 
 
 ## 🔨 Requirements

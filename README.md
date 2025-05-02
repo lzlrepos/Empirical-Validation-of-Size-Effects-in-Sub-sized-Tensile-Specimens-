@@ -12,17 +12,7 @@ This repository accompanies our research on the **mechanical behavior of sub-siz
 
 ---
 
-## 🔍 Key Contributions
-
-- ✅ Developed a public dataset of **1,050 sub-sized tensile test records** from nuclear structural materials
-- ✅ Benchmarked **ML models** (Random Forest, XGBoost, GPR, etc.) to predict:
-  - Yield Strength (YS)
-  - Ultimate Tensile Strength (UTS)
-  - Uniform Elongation (UE)
-  - Total Elongation (TE)
-- ✅ Applied **Bayesian Neural Networks** and **Natural Gradient Boosting** for UQ
-- ✅ Validated analytical models and established **improved critical values** for size effect thresholds
-- ✅ Used **SHAP explainability** to identify key factors affecting tensile behavior
+We developed a public dataset comprising 1,050 sub-sized tensile test records from nuclear structural materials. Using this dataset, we benchmarked various machine learning models—including Random Forest, XGBoost, and Gaussian Process Regression—to predict key tensile properties: yield strength (YS), ultimate tensile strength (UTS), uniform elongation (UE), and total elongation (TE). We also implemented uncertainty quantification using Bayesian Neural Networks and Natural Gradient Boosting. In addition, we validated existing analytical models and proposed refined critical values for specimen size effect thresholds. To better understand model predictions, we employed SHAP explainability to identify the most influential factors affecting tensile behavior.
 
 ---
 

@@ -35,6 +35,9 @@ We developed a public dataset comprising 1,050 sub-sized tensile test records fr
 | Uncertainty Quantification| Estimate confidence in predictions  | Quantile Regression, Natural Gradient Boosting (NGBoost), Gaussian Process Regression (GPR), Deep Ensemble, Monte Carlo Dropout (MC Dropout), Bayesian Neural Networks (Variational Inference), Bayesian Neural Networks (MCMC) |
 
 
+## 📊 Data and Evaluation Metrics
+The dataset comprises 1,050 tensile test records of sub-sized stainless steel 316 specimens collected from published literature. Each record includes 55 features spanning material type, specimen geometry, heat treatment, testing conditions, and measured mechanical properties. For model evaluation, point prediction models were assessed using the coefficient of determination (R²), while uncertainty quantification (UQ) models were evaluated based on the coverage probability of 90% confidence intervals and the interval width. 
+
 
 ## 🔨 Requirements
 

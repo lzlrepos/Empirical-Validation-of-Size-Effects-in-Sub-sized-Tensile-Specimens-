@@ -38,23 +38,6 @@ We developed a public dataset comprising 1,050 sub-sized tensile test records fr
 ## 📊 Data and Evaluation Metrics
 The dataset comprises 1,050 tensile test records of sub-sized stainless steel 316 specimens collected from published literature. Each record includes 55 features spanning material type, specimen geometry, heat treatment, testing conditions, and measured mechanical properties. For model evaluation, point prediction models were assessed using the coefficient of determination (R²) and  and root-mean-square error (RMSE), while uncertainty quantification (UQ) models were evaluated based on the coverage probability of 95% confidence intervals. 
 
-## 📜 Citation
-
-If you use this dataset, code, or findings in your work, please cite:
-
-**Li, L., Merickel, J. W., Tang, Y., Song, R., Rittenhouse, J. E., Vakanski, A., & Xu, F.**  
-*Empirical Validation of Size Effects in Sub-sized Tensile Specimens for Nuclear Structural Materials*.  
-Manuscript in review, 2024.
-
-BibTeX:
-```bibtex
-@article{li2024sizeeffects,
-  title     = {Empirical Validation of Size Effects in Sub-sized Tensile Specimens for Nuclear Structural Materials},
-  author    = {Li, Longze and Merickel, Jacob W. and Tang, Yujun and Song, Rui and Rittenhouse, Jacob E. and Vakanski, Aleksandar and Xu, Fei},
-  journal   = {Manuscript in review},
-  year      = {2024}
-}
-
 
 ## 🔨 Requirements
 
@@ -70,5 +53,26 @@ scikit-learn 1.2.2
 
 
 
+
 ## ▶️ Use
 The codes are provided as Jupyter Notebook files. To reproduce the results, run the .ipynb files. 
+
+
+
+## 📜 Citation
+
+If you use this dataset, code, or findings in your work, please cite:
+
+**Li, L., Merickel, J. W., Tang, Y., Song, R., Rittenhouse, J. E., Vakanski, A., & Xu, F.**  
+*Empirical Validation of Size Effects in Sub-sized Tensile Specimens for Nuclear Structural Materials*.  
+Manuscript in review, 2024.
+
+  @article{li2024sizeeffects,
+    title     = {Empirical Validation of Size Effects in Sub-sized Tensile Specimens for Nuclear Structural Materials},
+    author    = {Li, Longze and Merickel, Jacob W. and Tang, Yujun and Song, Rui and Rittenhouse, Jacob E. and Vakanski, Aleksandar and Xu, Fei},
+    journal   = {Manuscript in review},
+    year      = {2024}
+  }
+
+
+

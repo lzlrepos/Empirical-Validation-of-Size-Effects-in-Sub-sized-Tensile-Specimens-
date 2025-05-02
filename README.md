@@ -30,15 +30,6 @@ We developed a public dataset comprising 1,050 sub-sized tensile test records fr
 | Uncertainty Quantification| Estimate confidence in predictions  | Quantile Regression, Natural Gradient Boosting (NGBoost), Gaussian Process Regression (GPR), Deep Ensemble, Monte Carlo Dropout (MC Dropout), Bayesian Neural Networks (Variational Inference), Bayesian Neural Networks (MCMC) |
 
 
-## 📌 Feature Importance (SHAP)
-
-- Most important features for prediction:
-  1. **Specimen treatment**
-  2. **Test temperature**
-  3. Specimen geometry (thickness, width)
-  4. Grain size
-
-
 
 ## 🔨 Requirements
 

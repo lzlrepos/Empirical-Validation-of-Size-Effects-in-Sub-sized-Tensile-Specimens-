@@ -19,10 +19,10 @@ We developed a public dataset comprising 1,050 sub-sized tensile test records fr
 ---
 
 ## 📂 Repository Organization
-- **Figures:**  contains codes related to the application of Machine Learning methods for predicting tensile properties in Figure 2 and Figure 3.
+- **Figures:**  contains codes related to the application of Machine Learning methods for predicting tensile properties in Figure 2 and Figure 3.␣␣
   k-Nearest Neighbors (kNN), Support Vector Machine (SVM), Decision Tree, Random Forest (RF), XGBoost, Gaussian Process Regression (GPR), Artificial Neural Network (ANN)
 
-- **Tables:**  contains codes related to the application of Machine Learning methods for predicting tensile properties with uncertainty quantification in Table 3, Table 4, Table 5 and Table 6.
+- **Tables:**  contains codes related to the application of Machine Learning methods for predicting tensile properties with uncertainty quantification in Table 3, Table 4, Table 5 and Table 6.␣␣
   k-Nearest Neighbors (kNN), Support Vector Machine (SVM), Decision Tree, Random Forest (RF), XGBoost, Gaussian Process Regression (GPR), Artificial Neural Network (ANN)
   Quantile Regression, NGBoost (Natural Gradient Boosting), Monte Carlo Dropout, Deep Ensemble, Bayesian Neural Network (Variational Inference), and Bayesian Neural Network (MCMC sampling)
 

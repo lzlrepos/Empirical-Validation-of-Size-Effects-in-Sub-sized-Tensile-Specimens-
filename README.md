@@ -67,12 +67,12 @@ If you use this dataset, code, or findings in your work, please cite:
 *Empirical Validation of Size Effects in Sub-sized Tensile Specimens for Nuclear Structural Materials*.  
 Manuscript in review, 2024.
 
-  @article{li2024sizeeffects,
-    title     = {Empirical Validation of Size Effects in Sub-sized Tensile Specimens for Nuclear Structural Materials},
-    author    = {Li, Longze and Merickel, Jacob W. and Tang, Yujun and Song, Rui and Rittenhouse, Jacob E. and Vakanski, Aleksandar and Xu, Fei},
-    journal   = {Manuscript in review},
-    year      = {2024}
-  }
 
-
+```bibtex
+@article{li2024sizeeffects,
+  title     = {Empirical Validation of Size Effects in Sub-sized Tensile Specimens for Nuclear Structural Materials},
+  author    = {Li, Longze and Merickel, Jacob W. and Tang, Yujun and Song, Rui and Rittenhouse, Jacob E. and Vakanski, Aleksandar and Xu, Fei},
+  journal   = {Manuscript in review},
+  year      = {2024}
+}
 

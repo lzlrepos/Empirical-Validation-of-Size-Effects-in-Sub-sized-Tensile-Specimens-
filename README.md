@@ -21,7 +21,7 @@ We developed a public dataset comprising 1,050 sub-sized tensile test records fr
 - 📍 Source: Peer-reviewed publications
 - 📈 Records: 1,050
 - 📂 Parameters: 55 per record (material, dimensions, treatment, test conditions, etc.)
-- 🔗 Available at: [Materials Cloud Repository](https://github.com/avakanski/Subsized-Specimens-Tensile-Properties)
+
 
 ---
 

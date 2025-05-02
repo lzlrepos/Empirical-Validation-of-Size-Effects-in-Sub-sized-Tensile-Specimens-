@@ -8,7 +8,9 @@ This repository accompanies our research on the **mechanical behavior of sub-siz
 - Empirical validation of **analytical models** (Barba’s law, Bertella-Oliver formula),
 - Development of **machine learning (ML)** models for predictive modeling,
 - Implementation of **uncertainty quantification (UQ)** methods to estimate confidence in predictions,
-- Comprehensive investigation into **specimen size effects**.
+- Use of **SHAP (SHapley Additive exPlanations)** to interpret and explain feature importance in ML predictions,
+- A comprehensive investigation into **specimen size effects** and validation of associated physical thresholds.
+
 
 ---
 

@@ -16,7 +16,7 @@ We developed a public dataset comprising 1,050 sub-sized tensile test records fr
 
 ---
 
-## 📊 Dataset
+## 📊 Dataset: Tensile_Properties_Data.xlsx
 
 - 📍 Source: Peer-reviewed publications
 - 📈 Records: 1,050

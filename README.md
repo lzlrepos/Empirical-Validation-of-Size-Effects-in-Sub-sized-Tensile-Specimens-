@@ -4,14 +4,9 @@
 
 ## Overview
 
-This repository accompanies our research on the **mechanical behavior of sub-sized tensile specimens**, specifically focusing on **stainless steel 316 (SS316)**. The study presents:
-- The largest known **open-access database** of tensile properties from sub-sized specimens,
-- Empirical validation of **analytical models** (Barba’s law, Bertella-Oliver formula),
-- Development of **machine learning (ML)** models for predictive modeling,
-- Implementation of **uncertainty quantification (UQ)** methods to estimate confidence in predictions,
-- Use of **SHAP (SHapley Additive exPlanations)** to interpret and explain feature importance in ML predictions,
-- A comprehensive investigation into **specimen size effects** and validation of associated physical thresholds.
+The study addresses the limitations of conventional machine learning (ML) methods in predicting mechanical properties of materials, particularly creep rupture life, due to their often opaque reasoning and lack of integration with established physical laws. To overcome this, the authors propose a novel physics-informed Bayesian neural network (PI-BNN) framework that incorporates physically meaningful features into the modeling process. By embedding domain knowledge—such as stress and temperature dependencies from creep deformation theory—into the learning architecture, the model not only enhances predictive accuracy but also provides calibrated uncertainty quantification (UQ). This approach addresses the challenge of limited data availability common in high-temperature mechanical testing of materials.
 
+In their case study, the authors demonstrate the effectiveness of the PI-BNN by predicting the creep rupture life of steel alloys using three different datasets. The model successfully integrates prior physics through a novel loss function design and feature engineering pipeline, leading to more interpretable and reliable predictions. The study emphasizes the potential of combining physics-based constraints with probabilistic ML to support informed decision-making in materials design and performance assessment.
 
 ---
 

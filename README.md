@@ -71,9 +71,9 @@ Li, L., Merickel, J.W., Tang, Y., Song, R., Rittenhouse, J.E., Vakanski, A., & X
   JOURNAL = {Scientific Reports},
   YEAR = {2025},
   VOLUME = {15},
-  ISSUE = {1}
+  ISSUE = {1},
   ARTICLE-NUMBER = {13846},
-  URL = {https://doi.org/10.1038/s41598-025-98849-5}
+  URL = {https://doi.org/10.1038/s41598-025-98849-5},
   ISSN = {2045-2322},
   DOI = {10.1038/s41598-025-98849-5},
 }

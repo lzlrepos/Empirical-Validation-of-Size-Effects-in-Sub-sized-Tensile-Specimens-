@@ -65,15 +65,16 @@ Li, L., Merickel, J.W., Tang, Y., Song, R., Rittenhouse, J.E., Vakanski, A., & X
 
 
 ```bibtex
-@article{li2025sizeeffects,
-  title={Empirical validation of size effects in sub-sized tensile specimens for nuclear structural materials},
-  author={Li, Longze and Merickel, John W. and Tang, Yalei and Song, Rongjie and Rittenhouse, Joshua E. and Vakanski, Aleksandar and Xu, Fei},
-  journal={Scientific Reports},
-  volume={15},
-  pages={13846},
-  year={2025},
-  doi={10.1038/s41598-025-98849-5},
-  ISSN = {2045-2322} 
-  publisher={Nature Publishing Group}
+@article{li2025,
+  TITLE= {Empirical validation of size effects in sub-sized tensile specimens for nuclear structural materials},
+  AUTHOR= {Li, Longze and Merickel, John W. and Tang, Yalei and Song, Rongjie and Rittenhouse, Joshua E. and Vakanski, Aleksandar and Xu, Fei},
+  JOURNAL = {Scientific Reports},
+  YEAR = {2025},
+  VOLUME = {15},
+  ISSUE = {1}
+  ARTICLE-NUMBER = {13846},
+  URL = {https://doi.org/10.1038/s41598-025-98849-5}
+  ISSN = {2045-2322},
+  DOI = {10.1038/s41598-025-98849-5},
 }
 

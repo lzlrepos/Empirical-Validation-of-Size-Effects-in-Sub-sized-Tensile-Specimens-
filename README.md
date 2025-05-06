@@ -61,9 +61,7 @@ The codes are provided as Jupyter Notebook files. To reproduce the results, run 
 
 ## 📜 Citation
 
-Li, L., Merickel, J.W., Tang, Y., Song, R., Rittenhouse, J.E., Vakanski, A., & Xu, F. (2025). Empirical validation of size effects in sub-sized tensile specimens for nuclear structural materials. Scientific Reports, 15, 13846. https://doi.org/10.1038/s41598-025-98849-5
-
-
+If you use the codes or the methods in your work, please cite the following <a href="https://doi.org/10.1038/s41598-025-98849-5">article</a>:   
 ```bibtex
 @article{li2025,
   TITLE= {Empirical validation of size effects in sub-sized tensile specimens for nuclear structural materials},

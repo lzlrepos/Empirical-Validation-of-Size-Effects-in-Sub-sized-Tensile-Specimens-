@@ -62,17 +62,26 @@ The codes are provided as Jupyter Notebook files. To reproduce the results, run 
 ## 📜 Citation
 
 If you use the codes or the methods in your work, please cite the following <a href="https://doi.org/10.1038/s41598-025-98849-5">article</a>:   
-```bibtex
-@article{li2025,
-  TITLE= {Empirical validation of size effects in sub-sized tensile specimens for nuclear structural materials},
-  AUTHOR= {Li, Longze and Merickel, John W. and Tang, Yalei and Song, Rongjie and Rittenhouse, Joshua E. and Vakanski, Aleksandar and Xu, Fei},
-  JOURNAL = {Scientific Reports},
-  YEAR = {2025},
-  VOLUME = {15},
-  ISSUE = {1},
-  ARTICLE-NUMBER = {13846},
-  URL = {https://doi.org/10.1038/s41598-025-98849-5},
-  ISSN = {2045-2322},
-  DOI = {10.1038/s41598-025-98849-5},
-}
 
+    @article{li2025,
+      TITLE= {Empirical validation of size effects in sub-sized tensile specimens for nuclear structural materials},
+      AUTHOR= {Li, Longze and Merickel, John W. and Tang, Yalei and Song, Rongjie and Rittenhouse, Joshua E. and Vakanski, Aleksandar and Xu, Fei},
+      JOURNAL = {Scientific Reports},
+      YEAR = {2025},
+      VOLUME = {15},
+      ISSUE = {1},
+      ARTICLE-NUMBER = {13846},
+      URL = {https://doi.org/10.1038/s41598-025-98849-5},
+      ISSN = {2045-2322},
+      DOI = {10.1038/s41598-025-98849-5},
+  }
+
+## 🚩 License
+<a href="License - MIT.txt">MIT License</a>
+
+
+## 👏 Acknowledgments
+This work was supported by the University of Idaho and Idaho National Laboratory. This work was also supported through the INL Laboratory Directed Research & Development (LDRD) Program under DOE Idaho Operations Office Contract. 
+
+## ✉️ Contact or Questions
+<a href="https://www.webpages.uidaho.edu/vakanski/">A. Vakanski</a>, e-mail: vakanski at uidaho.edu

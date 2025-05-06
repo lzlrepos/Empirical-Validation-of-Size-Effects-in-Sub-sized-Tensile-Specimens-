@@ -1,5 +1,6 @@
 # Empirical Validation of Size Effects in Sub-sized Tensile Specimens for Nuclear Structural Materials
 
+[![Scientific Reports](https://img.shields.io/badge/Scientific_Reports-DOI%3A_10.1038%2Fs41598--024--61189--x-brightgreen.svg)](https://doi.org/10.1038/s41598-025-98849-5)  
 
 ## Overview
 

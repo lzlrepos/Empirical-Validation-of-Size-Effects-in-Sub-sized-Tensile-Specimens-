@@ -1,6 +1,6 @@
 # Empirical Validation of Size Effects in Sub-sized Tensile Specimens for Nuclear Structural Materials
 
-[![Scientific Reports](https://img.shields.io/badge/Scientific_Reports-DOI%3A_10.1038%2Fs41598--024--61189--x-brightgreen.svg)](https://doi.org/10.1038/s41598-025-98849-5)  
+[![Scientific Reports](https://img.shields.io/badge/Scientific_Reports-DOI%3A_10.1038%2Fs41598--025--98849--5-brightgreen.svg)](https://doi.org/10.1038/s41598-025-98849-5)  
 
 With the increasing need for mechanical characterization of small-scale components, particularly in scenarios where only limited material is available—such as in nuclear reactors—the study explores the role of machine learning (ML) in understanding and predicting specimen size effects in tensile testing. Traditional models and guidelines such as Miniaturized Tensile Test (MTT) have established practices for sub-sized specimens, but most prior studies relied on small datasets and analytical models with limited generalizability. To overcome these challenges, we constructed a comprehensive database of 1,050 tensile test records from peer-reviewed studies and introduced a machine learning framework capable of predicting key tensile properties like yield strength, ultimate tensile strength, and elongation for sub-sized specimens of stainless steel 316.
 
